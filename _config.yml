@@ -23,7 +23,7 @@ email: nmohun@byu.edu
 description: "My personal blog for Data Science Research" 
 baseurl: # the name of the repository 
 url: "https://zalarez.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "\\cover_image.png"
+image: cover_image.png
 author: "Nathaniel Mohun"
 copyright: NGM # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 
